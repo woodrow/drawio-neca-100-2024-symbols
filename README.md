@@ -25,12 +25,32 @@ package:
 
 ## Use the libraries
 
-For the complete set, open:
+Use the **Load in draw.io** links below to open diagrams.net with the selected
+library already loaded in the shapes panel. The **Raw XML** links can also be
+used with **File → Open Library from → URL**.
 
-`neca-100-2024/neca-100-2024-drawio-all.xml`
+| Library | Symbols | One-click loader | Library file |
+| --- | ---: | --- | --- |
+| Complete library | 396 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2Fneca-100-2024-drawio-all.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/neca-100-2024-drawio-all.xml) |
+| 1.0 Wiring Methods | 36 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F01-wiring-methods.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/01-wiring-methods.xml) |
+| 2.0 Luminaire Fixtures | 20 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F02-luminaire-fixtures.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/02-luminaire-fixtures.xml) |
+| 3.0 Outlets & Receptacles | 19 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F03-outlets-receptacles.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/03-outlets-receptacles.xml) |
+| 4.0 Switches & Sensors | 39 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F04-switches-sensors.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/04-switches-sensors.xml) |
+| 5.0 Motors-Controls | 45 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F05-motors-controls.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/05-motors-controls.xml) |
+| 6.0 Security | 21 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F06-security.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/06-security.xml) |
+| 7.0 Fire Alarm Communications & Panels | 51 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F07-fire-alarm.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/07-fire-alarm.xml) |
+| 8.0 Power Distribution Equipment | 14 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F08-power-distribution.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/08-power-distribution.xml) |
+| 9.0 Communications-Teldata | 25 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F09-communications-teledata.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/09-communications-teledata.xml) |
+| 10.0 Site Work | 13 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F10-site-work.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/10-site-work.xml) |
+| 11.0 Schematic Fault Circuit Interrupter, Personal Protection | 63 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F11-schematic-one-line.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/11-schematic-one-line.xml) |
+| 12.0 Miscellaneous | 10 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F12-miscellaneous.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/12-miscellaneous.xml) |
+| 13.0 Abbreviations | 1 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F13-abbreviations.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/13-abbreviations.xml) |
+| 14.0 Nurse Call System | 7 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F14-nurse-call.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/14-nurse-call.xml) |
+| NFPA Alternate Fire Safety Symbols | 25 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F15-nfpa-alternate-fire-safety.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/15-nfpa-alternate-fire-safety.xml) |
+| One-Line Riser Diagrams | 2 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F16-one-line-riser-diagrams.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/16-one-line-riser-diagrams.xml) |
+| Schedules | 5 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2F17-schedules.xml) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/17-schedules.xml) |
 
-Smaller category libraries are also available in the same directory. In
-draw.io or diagrams.net:
+To import a downloaded library manually in draw.io or diagrams.net:
 
 1. Select **File → Open Library From → Device**.
 2. Choose the complete library or one of the category `.xml` files.
