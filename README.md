@@ -36,10 +36,15 @@ draw.io or diagrams.net:
 2. Choose the complete library or one of the category `.xml` files.
 3. Drag a symbol from the sidebar onto the drawing.
 
-Symbols are embedded as scalable SVG vectors with a fixed aspect ratio and an
-editable `neca-color` CSS variable. They automatically use black linework in
-light mode and white linework in dark mode. Short device modifiers such as `F`,
-`WP`, `SD`, and `MCC` are preserved. Prompted, project-specific AutoCAD
+Symbols are embedded as scalable SVG vectors with a fixed aspect ratio. Their
+SVG style rules use an explicit `light-dark(#000000, #ffffff)` colour pair, so
+library thumbnails and inserted shapes use black linework in light mode and
+white linework in dark mode. Each embedded SVG explicitly supports both colour
+schemes so this also works while the symbol is still a sidebar thumbnail. The
+same rules are exposed through
+`editableCssRules`, so line and fill colours appear in the normal
+**Format → Style** colour controls. Short device modifiers such as `F`, `WP`,
+`SD`, and `MCC` are preserved. Prompted, project-specific AutoCAD
 attributes—panel/circuit number, amperage, horsepower, drawing number, and
 similar placeholders—are intentionally omitted.
 

@@ -232,8 +232,16 @@ def render_svg(
         svg_text,
     )
     svg_text = svg_text.replace(
+        "<svg ",
+        '<svg style="color-scheme: light dark;" ',
+        1,
+    )
+    # Keep library thumbnails visible before draw.io has instantiated a shape.
+    # Unlike a custom CSS variable, light-dark() is also understood by draw.io's
+    # embedded-SVG colour editor and can be replaced with a user-selected pair.
+    svg_text = svg_text.replace(
         "#000000",
-        "var(--neca-color, #000000)",
+        "light-dark(#000000, #ffffff)",
     )
     return svg_text, retained, omitted, repair_notes
 
@@ -261,10 +269,9 @@ def drawio_entry(svg_text: str, title: str) -> dict[str, object]:
         "h": height,
         "title": title,
         "aspect": "fixed",
-        "style": (
-            "resizable=1;rotatable=1;cssVars=neca-color;"
-            "--neca-color=light-dark(#000000,#ffffff);"
-        ),
+        # Expose the SVG classes as ordinary native colour controls. Their
+        # light-dark() pairs remain editable as separate light and dark values.
+        "style": "resizable=1;rotatable=1;editableCssRules=.*;",
     }
 
 
