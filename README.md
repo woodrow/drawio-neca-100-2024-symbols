@@ -79,3 +79,5 @@ The source CAD files and NECA 100 standard are © National Electrical
 Contractors Association. This is an unofficial format conversion and is not
 endorsed by NECA. The original DWG archive is not included in this repository.
 Review the source publisher's terms before redistributing converted assets.
+
+Built with [Codex](https://openai.com/codex/).
