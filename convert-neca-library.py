@@ -592,7 +592,7 @@ def convert(source: Path, output_dir: Path) -> None:
 
     write_library(
         output_dir / COMBINED_LIBRARY_NAME,
-        "NECA 100-2024 — Complete (Native stencil edition; unofficial conversion)",
+        "NECA 100-2024 — Complete",
         all_entries,
     )
 
@@ -605,10 +605,7 @@ def convert(source: Path, output_dir: Path) -> None:
         )
         write_library(
             output_dir / filename,
-            (
-                f"NECA 100-2024 — {category} "
-                "(Native stencil edition; unofficial conversion)"
-            ),
+            f"NECA 100-2024 — {category}",
             entries,
         )
 

@@ -29,11 +29,6 @@ Use the **Load in draw.io** links below to open diagrams.net with the selected
 library already loaded in the shapes panel. The **Raw XML** links can also be
 used with **File → Open Library from → URL**.
 
-These links identify the native-stencil edition explicitly to avoid reusing an
-older cached image-based library. If an older NECA library is already open in
-the shapes panel, close it with the **×** next to its title before loading this
-edition.
-
 | Library | Symbols | One-click loader | Library file |
 | --- | ---: | --- | --- |
 | Complete library | 396 | [Load in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwoodrow%2Fdrawio-neca-100-2024-symbols%2Fmaster%2Fneca-100-2024%2Fneca-100-2024-drawio-all.xml%3Frev%3Dnative-v1) | [Raw XML](https://raw.githubusercontent.com/woodrow/drawio-neca-100-2024-symbols/master/neca-100-2024/neca-100-2024-drawio-all.xml?rev=native-v1) |
