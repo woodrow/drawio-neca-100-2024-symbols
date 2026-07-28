@@ -1,0 +1,2510 @@
+{
+  "1.0 Wiring Methods/1-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 87/0x57",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/3B"
+  ],
+  "1.0 Wiring Methods/1-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 108/0x6C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/35"
+  ],
+  "1.0 Wiring Methods/1-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 112/0x70",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/3C"
+  ],
+  "1.0 Wiring Methods/1-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 135/0x87",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/4C"
+  ],
+  "1.0 Wiring Methods/1-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 127/0x7F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 115/0x73",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 116/0x74",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 123/0x7B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/48"
+  ],
+  "1.0 Wiring Methods/1-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 117/0x75",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 93/0x5D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 122/0x7A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 93/0x5D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 93/0x5D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-014.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 94/0x5E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/38"
+  ],
+  "1.0 Wiring Methods/1-101.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 85/0x55",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/3D"
+  ],
+  "1.0 Wiring Methods/1-102.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 99/0x63",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/3D"
+  ],
+  "1.0 Wiring Methods/1-103.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 96/0x60",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/38"
+  ],
+  "1.0 Wiring Methods/1-104.dwg": [
+    "Warning: checksum: 0xf02f0be6 (calculated) CRC mismatch 0x4e74-0x4eeb",
+    "Warning: Invalid sections: 0 != numgaps: 0 + numsections: 15",
+    "Warning: Unstable Class object 502 TABLESTYLE (0xfff) 33/0",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 43/0",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 51/0",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 59/0",
+    "Warning: Unstable Class object 509 MLEADERSTYLE (0xfff) 111/0",
+    "ERROR: Invalid zero_18 size 3. Need min. 48 bits, have 0 for .",
+    "Warning: AcDs schdat segment yet unhandled",
+    "Warning: AcDs _data_ segment yet unhandled",
+    "Warning: AcDs prvsav segment yet unhandled",
+    "Warning: AcDs freesp segment yet unhandled",
+    "Warning: Object handle not found 281/0x119",
+    "Warning: Unstable Class object 502 TABLESTYLE (0xfff) 33/40",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 43/73",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 51/7B",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 59/83",
+    "Warning: Unstable Class object 509 MLEADERSTYLE (0xfff) 111/B7",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: AcDs schdat segment yet unhandled"
+  ],
+  "1.0 Wiring Methods/1-105.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 116/0x74",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/39"
+  ],
+  "1.0 Wiring Methods/1-106.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 86/0x56",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/34"
+  ],
+  "1.0 Wiring Methods/1-107.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 89/0x59",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/41"
+  ],
+  "1.0 Wiring Methods/1-108.dwg": [
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 253/0xFD",
+    "Warning: Object handle not found 177/0xB1 in 66 objects of max 0xFD handles",
+    "Warning: Object handle not found 173/0xAD in 66 objects of max 0xFD handles",
+    "Warning: Object handle not found 174/0xAE in 66 objects of max 0xFD handles",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 42/87"
+  ],
+  "1.0 Wiring Methods/1-201.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 89/0x59",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/41"
+  ],
+  "1.0 Wiring Methods/1-202.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 86/0x56",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 42/3E"
+  ],
+  "1.0 Wiring Methods/1-203.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 80/0x50",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 42/38"
+  ],
+  "1.0 Wiring Methods/1-204.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 79/0x4F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/37"
+  ],
+  "1.0 Wiring Methods/1-205.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/35"
+  ],
+  "1.0 Wiring Methods/1-205a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 91/0x5B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/35"
+  ],
+  "1.0 Wiring Methods/1-206.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 160/0xA0",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/3A"
+  ],
+  "1.0 Wiring Methods/1-207.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 134/0x86",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/35"
+  ],
+  "1.0 Wiring Methods/1-208.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 46/0",
+    "Warning: Object handle not found 137/0x89",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 46/40"
+  ],
+  "1.0 Wiring Methods/1-209.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 152/0x98",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/41"
+  ],
+  "1.0 Wiring Methods/1-210.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 79/0x4F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/34"
+  ],
+  "1.0 Wiring Methods/1-211.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/35"
+  ],
+  "1.0 Wiring Methods/1-212.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 50/0",
+    "Warning: Object handle not found 100/0x64",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 50/42"
+  ],
+  "1.0 Wiring Methods/1-213.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 138/0x8A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/37"
+  ],
+  "2.0 Luminaire Fixtures/2-001.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 68/0x44",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/2F"
+  ],
+  "2.0 Luminaire Fixtures/2-002.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 74/0",
+    "Warning: Object handle not found 3630/0xE2E",
+    "Warning: Object handle not found 2457/0x999 in 91 objects of max 0xE2E handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 74/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-003.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 75/0",
+    "Warning: Object handle not found 3620/0xE24",
+    "Warning: Object handle not found 2457/0x999 in 92 objects of max 0xE24 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 75/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-004.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 83/0",
+    "Warning: Object handle not found 3636/0xE34",
+    "Warning: Object handle not found 2457/0x999 in 100 objects of max 0xE34 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 83/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-005.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 274/0",
+    "Warning: Object handle not found 3653/0xE45",
+    "Warning: Object handle not found 2457/0x999 in 291 objects of max 0xE45 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 274/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-006.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 93/0",
+    "Warning: Object handle not found 3668/0xE54",
+    "Warning: Object handle not found 2457/0x999 in 110 objects of max 0xE54 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 93/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-007.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 82/0",
+    "Warning: Object handle not found 3684/0xE64",
+    "Warning: Object handle not found 2457/0x999 in 99 objects of max 0xE64 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 82/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-008.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 91/0",
+    "Warning: Object handle not found 3729/0xE91",
+    "Warning: Object handle not found 2457/0x999 in 108 objects of max 0xE91 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 91/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-009.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 80/0",
+    "Warning: Object handle not found 3732/0xE94",
+    "Warning: Object handle not found 2457/0x999 in 97 objects of max 0xE94 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 80/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-010.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 85/0",
+    "Warning: Object handle not found 3749/0xEA5",
+    "Warning: Object handle not found 2457/0x999 in 102 objects of max 0xEA5 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 85/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-011.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 78/0",
+    "Warning: Object handle not found 3765/0xEB5",
+    "Warning: Object handle not found 2457/0x999 in 95 objects of max 0xEB5 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 78/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-012.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 76/0",
+    "Warning: Object handle not found 3779/0xEC3",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 76/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-013.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 95/0",
+    "Warning: Object handle not found 3779/0xEC3",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 95/DCD"
+  ],
+  "2.0 Luminaire Fixtures/2-100.dwg": [
+    "Warning: handleoff 0x149 looks wrong, max_handles 30c - last_handle 292 = 7A (@27215)",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 119/0",
+    "Warning: Object handle not found 3856/0xF10",
+    "Warning: Object handle not found 2457/0x999 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1882/0x75A in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1860/0x744 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1164/0x48C in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1021/0x3FD in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 3834/0xEFA in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1858/0x742 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1019/0x3FB in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1014/0x3F6 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1895/0x767 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1849/0x739 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1045/0x415 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1888/0x760 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1847/0x737 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1079/0x437 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1886/0x75E in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1041/0x411 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1884/0x75C in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1157/0x485 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 3835/0xEFB in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1861/0x745 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1856/0x740 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1859/0x743 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1154/0x482 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1020/0x3FC in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1854/0x73E in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1857/0x741 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1002/0x3EA in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1889/0x761 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1042/0x412 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1887/0x75F in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1885/0x75D in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1163/0x48B in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1008/0x3F0 in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1883/0x75B in 159 objects of max 0xF10 handles",
+    "Warning: Object handle not found 1151/0x47F in 159 objects of max 0xF10 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 119/E70"
+  ],
+  "2.0 Luminaire Fixtures/2-200.dwg": [
+    "Warning: handleoff 0x4A5 looks wrong, max_handles 2c2 - last_handle 292 = 30 (@26371)",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 111/0",
+    "Warning: Object handle not found 3866/0xF1A",
+    "Warning: Object handle not found 2457/0x999 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1882/0x75A in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1155/0x483 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1149/0x47D in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1164/0x48C in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1021/0x3FD in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1028/0x404 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1019/0x3FB in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3831/0xEF7 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1014/0x3F6 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3829/0xEF5 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1895/0x767 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1045/0x415 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3827/0xEF3 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1888/0x760 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1150/0x47E in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1079/0x437 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1886/0x75E in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1041/0x411 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1884/0x75C in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1157/0x485 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1153/0x481 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1006/0x3EE in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 988/0x3DC in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3835/0xEFB in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3833/0xEF9 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1154/0x482 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1020/0x3FC in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3832/0xEF8 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1017/0x3F9 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3830/0xEF6 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1002/0x3EA in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3828/0xEF4 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1889/0x761 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1042/0x412 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 993/0x3E1 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 3824/0xEF0 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1887/0x75F in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1885/0x75D in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1163/0x48B in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1060/0x424 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1040/0x410 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1008/0x3F0 in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1883/0x75B in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 1151/0x47F in 144 objects of max 0xF1A handles",
+    "Warning: Object handle not found 987/0x3DB in 144 objects of max 0xF1A handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 111/E70"
+  ],
+  "2.0 Luminaire Fixtures/2-300.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 3876/0xF24",
+    "Warning: Object handle not found 2457/0x999 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1882/0x75A in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1155/0x483 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1149/0x47D in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1860/0x744 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1164/0x48C in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1021/0x3FD in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3834/0xEFA in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1858/0x742 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1028/0x404 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1019/0x3FB in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3831/0xEF7 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1014/0x3F6 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3829/0xEF5 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1849/0x739 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1045/0x415 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3827/0xEF3 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1847/0x737 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1150/0x47E in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1079/0x437 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1041/0x411 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1157/0x485 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1153/0x481 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1006/0x3EE in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 988/0x3DC in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3833/0xEF9 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1861/0x745 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1856/0x740 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1859/0x743 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1154/0x482 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1020/0x3FC in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3832/0xEF8 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1854/0x73E in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1857/0x741 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1017/0x3F9 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3830/0xEF6 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1002/0x3EA in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3828/0xEF4 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1042/0x412 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 993/0x3E1 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 3824/0xEF0 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1887/0x75F in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1885/0x75D in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1163/0x48B in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1060/0x424 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1040/0x410 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1008/0x3F0 in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 1151/0x47F in 73 objects of max 0xF24 handles",
+    "Warning: Object handle not found 987/0x3DB in 73 objects of max 0xF24 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 42/E70"
+  ],
+  "2.0 Luminaire Fixtures/2-401.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 3776/0xEC0",
+    "Warning: Object handle not found 2457/0x999 in 77 objects of max 0xEC0 handles",
+    "Warning: Object handle not found 3182/0xC6E in 77 objects of max 0xEC0 handles",
+    "Warning: Object handle not found 3175/0xC67 in 77 objects of max 0xEC0 handles",
+    "Warning: Object handle not found 3192/0xC78 in 77 objects of max 0xEC0 handles",
+    "Warning: Object handle not found 3185/0xC71 in 77 objects of max 0xEC0 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/E1C"
+  ],
+  "2.0 Luminaire Fixtures/2-402.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 3780/0xEC4",
+    "Warning: Object handle not found 2457/0x999 in 70 objects of max 0xEC4 handles",
+    "Warning: Object handle not found 3747/0xEA3 in 70 objects of max 0xEC4 handles",
+    "Warning: Object handle not found 3744/0xEA0 in 70 objects of max 0xEC4 handles",
+    "Warning: Object handle not found 3745/0xEA1 in 70 objects of max 0xEC4 handles",
+    "Warning: Object handle not found 3746/0xEA2 in 70 objects of max 0xEC4 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 40/E1C"
+  ],
+  "2.0 Luminaire Fixtures/2-403.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 50/0",
+    "Warning: Object handle not found 3790/0xECE",
+    "Warning: Object handle not found 2457/0x999 in 81 objects of max 0xECE handles",
+    "Warning: Object handle not found 3278/0xCCE in 81 objects of max 0xECE handles",
+    "Warning: Object handle not found 3279/0xCCF in 81 objects of max 0xECE handles",
+    "Warning: Object handle not found 3270/0xCC6 in 81 objects of max 0xECE handles",
+    "Warning: Object handle not found 3274/0xCCA in 81 objects of max 0xECE handles",
+    "Warning: Object handle not found 3276/0xCCC in 81 objects of max 0xECE handles",
+    "Warning: Object handle not found 3277/0xCCD in 81 objects of max 0xECE handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 50/E1C"
+  ],
+  "2.0 Luminaire Fixtures/2-404.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 44/0",
+    "Warning: Object handle not found 3800/0xED8",
+    "Warning: Object handle not found 2457/0x999 in 77 objects of max 0xED8 handles",
+    "Warning: Object handle not found 3740/0xE9C in 77 objects of max 0xED8 handles",
+    "Warning: Object handle not found 3238/0xCA6 in 77 objects of max 0xED8 handles",
+    "Warning: Object handle not found 3743/0xE9F in 77 objects of max 0xED8 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 44/E1C",
+    "repaired block reference *U -> *U31"
+  ],
+  "3.0 Outlets & Receptacles/3-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 110/0x6E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/3A"
+  ],
+  "3.0 Outlets & Receptacles/3-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 73/0x49",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2E"
+  ],
+  "3.0 Outlets & Receptacles/3-003.dwg": [
+    "Warning: checksum: 0xd8640c4c (calculated) CRC mismatch 0x4bb4-0x4c25",
+    "Warning: Invalid sections: 0 != numgaps: 0 + numsections: 15",
+    "Warning: Unstable Class object 502 TABLESTYLE (0xfff) 35/0",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 45/0",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 53/0",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 61/0",
+    "Warning: Unstable Class object 509 MLEADERSTYLE (0xfff) 113/0",
+    "ERROR: Invalid zero_18 size 3. Need min. 48 bits, have 0 for .",
+    "Warning: AcDs _data_ segment yet unhandled",
+    "Warning: AcDs schdat segment yet unhandled",
+    "Warning: Object handle not found 207/0xCF",
+    "Warning: Unstable Class object 502 TABLESTYLE (0xfff) 35/2E",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 45/4A",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 53/52",
+    "Warning: Unstable Class object 506 MATERIAL (0x481) 61/5A",
+    "Warning: Unstable Class object 509 MLEADERSTYLE (0xfff) 113/8E",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: AcDs schdat segment yet unhandled"
+  ],
+  "3.0 Outlets & Receptacles/3-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 126/0",
+    "Warning: Object handle not found 196/0xC4",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 126/AB"
+  ],
+  "3.0 Outlets & Receptacles/3-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 70/0x46",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "3.0 Outlets & Receptacles/3-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 117/0",
+    "Warning: Object handle not found 162/0xA2",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 117/7D"
+  ],
+  "3.0 Outlets & Receptacles/3-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/31"
+  ],
+  "3.0 Outlets & Receptacles/3-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 127/0",
+    "Warning: Object handle not found 164/0xA4",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 127/89"
+  ],
+  "3.0 Outlets & Receptacles/3-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 314/0",
+    "Warning: Object handle not found 353/0x161",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 314/146"
+  ],
+  "3.0 Outlets & Receptacles/3-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 107/0x6B",
+    "Warning: Object handle not found 83/0x53 in 52 objects of max 0x6B handles",
+    "Warning: Object handle not found 84/0x54 in 52 objects of max 0x6B handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/4C"
+  ],
+  "3.0 Outlets & Receptacles/3-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 75/0x4B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/3A"
+  ],
+  "3.0 Outlets & Receptacles/3-011a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 98/0x62",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/3A"
+  ],
+  "3.0 Outlets & Receptacles/3-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 68/0x44",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/33"
+  ],
+  "3.0 Outlets & Receptacles/3-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 44/0",
+    "Warning: Object handle not found 83/0x53",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 44/42"
+  ],
+  "3.0 Outlets & Receptacles/3-014.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "3.0 Outlets & Receptacles/3-014a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "3.0 Outlets & Receptacles/3-015.dwg": [
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 191/0xBF",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 42/87"
+  ],
+  "3.0 Outlets & Receptacles/3-016.dwg": [
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 221/0xDD",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 42/87"
+  ],
+  "3.0 Outlets & Receptacles/Outlet & Receptacle Abbreviation Legend.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 124/0",
+    "Warning: Object handle not found 1634/0x662",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 124/644"
+  ],
+  "4.0 Switches & Sensors/4-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "4.0 Switches & Sensors/4-001a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 75/0x4B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "4.0 Switches & Sensors/4-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-002a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-003a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-004a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-005a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-006a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-007a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 86/0x56",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-008a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-009a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 86/0x56",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-010a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-011a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-012a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-013a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-014.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-014a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-015.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-015a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-016.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 91/0x5B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-016a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 106/0x6A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-017.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 81/0x51",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-017a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 96/0x60",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "4.0 Switches & Sensors/4-018.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "4.0 Switches & Sensors/4-019.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/36"
+  ],
+  "4.0 Switches & Sensors/4-020.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/30"
+  ],
+  "4.0 Switches & Sensors/4-021.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 101/0x65",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "4.0 Switches & Sensors/4-021a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 116/0x74",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2C"
+  ],
+  "5.0 Motors-Controls/5-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/32"
+  ],
+  "5.0 Motors-Controls/5-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 105/0x69",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/38"
+  ],
+  "5.0 Motors-Controls/5-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 44/0",
+    "Warning: Object handle not found 100/0x64",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 44/3A"
+  ],
+  "5.0 Motors-Controls/5-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 83/0x53",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "5.0 Motors-Controls/5-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 109/0x6D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/31"
+  ],
+  "5.0 Motors-Controls/5-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 94/0x5E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/37"
+  ],
+  "5.0 Motors-Controls/5-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 75/0x4B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "5.0 Motors-Controls/5-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "5.0 Motors-Controls/5-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "5.0 Motors-Controls/5-014.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/2F"
+  ],
+  "5.0 Motors-Controls/5-015.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 75/0x4B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/3A"
+  ],
+  "5.0 Motors-Controls/5-016.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 70/0x46",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/35"
+  ],
+  "5.0 Motors-Controls/5-017.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/39"
+  ],
+  "5.0 Motors-Controls/5-018.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "5.0 Motors-Controls/5-019.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "5.0 Motors-Controls/5-020.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "5.0 Motors-Controls/5-021.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 72/0x48",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2D"
+  ],
+  "5.0 Motors-Controls/5-022.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 62/0x3E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2D"
+  ],
+  "5.0 Motors-Controls/5-023.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "5.0 Motors-Controls/5-024.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "5.0 Motors-Controls/5-025.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 103/0x67",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-026.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 113/0x71",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-027.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 123/0x7B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-028.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-029.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 133/0x85",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-030.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 143/0x8F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-031.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 153/0x99",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-032.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 163/0xA3",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-033.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 173/0xAD",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-034.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 183/0xB7",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "5.0 Motors-Controls/5-101.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/31"
+  ],
+  "5.0 Motors-Controls/5-102.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 62/0x3E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/2D"
+  ],
+  "5.0 Motors-Controls/5-103.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 62/0x3E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/2D"
+  ],
+  "5.0 Motors-Controls/5-104.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "5.0 Motors-Controls/5-105.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "5.0 Motors-Controls/5-106.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 68/0x44",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/33"
+  ],
+  "5.0 Motors-Controls/5-107.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/30"
+  ],
+  "5.0 Motors-Controls/5-108.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "5.0 Motors-Controls/5-109.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 98/0",
+    "Warning: Object handle not found 123/0x7B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 98/6A"
+  ],
+  "5.0 Motors-Controls/5-110.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/31"
+  ],
+  "5.0 Motors-Controls/5-111.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "6.0 Security/6-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 94/0x5E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/35"
+  ],
+  "6.0 Security/6-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/36"
+  ],
+  "6.0 Security/6-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "6.0 Security/6-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 40/32"
+  ],
+  "6.0 Security/6-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 72/0x48",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-014.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-015.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-016.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 78/0x4E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2F"
+  ],
+  "6.0 Security/6-017.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-018.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-019.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-020.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "6.0 Security/6-021.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 94/0x5E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-014.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/30"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-015.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-016.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 96/0x60",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-017.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 126/0x7E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-018.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 146/0x92",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-101.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 32/0",
+    "Warning: Object handle not found 113/0x71",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 32/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-102.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 121/0x79",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-103.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 87/0x57",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/34"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-104.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 79/0x4F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/35"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-105.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 64/0",
+    "Warning: Object handle not found 94/0x5E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 64/4D"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-106.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 62/0",
+    "Warning: Object handle not found 114/0x72",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 62/4E"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-107.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-108.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-109.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-110.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 68/0x44",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/33"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-111.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-112.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 82/0x52",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-113.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 102/0x66",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-201.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 89/0x59",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-202.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-203.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 86/0x56",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-204.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 84/0x54",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-205.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-206.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-207.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-208.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-209.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-210.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 86/0x56",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-211.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-212.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/31"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-213.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 84/0x54",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/32"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-214.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 68/0x44",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/33"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-215.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-216.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 82/0x52",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-217.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-218.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 90/0x5A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-219.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "7.0 Fire Alarm Communications & Panels/7-220.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "8.0 Power Distribution Equipment/8-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 55/0",
+    "Warning: Object handle not found 80/0x50",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 55/3F"
+  ],
+  "8.0 Power Distribution Equipment/8-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 51/0",
+    "Warning: Object handle not found 80/0x50",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 51/3F"
+  ],
+  "8.0 Power Distribution Equipment/8-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 75/0x4B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/3A"
+  ],
+  "8.0 Power Distribution Equipment/8-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 72/0",
+    "Warning: Object handle not found 102/0x66",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 72/55"
+  ],
+  "8.0 Power Distribution Equipment/8-004a.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 71/0",
+    "Warning: Object handle not found 103/0x67",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 71/56"
+  ],
+  "8.0 Power Distribution Equipment/8-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 47/0",
+    "Warning: Object handle not found 72/0x48",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 47/37"
+  ],
+  "8.0 Power Distribution Equipment/8-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 94/0x5E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/4D"
+  ],
+  "8.0 Power Distribution Equipment/8-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 46/0",
+    "Warning: Object handle not found 81/0x51",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 46/40"
+  ],
+  "8.0 Power Distribution Equipment/8-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "8.0 Power Distribution Equipment/8-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "8.0 Power Distribution Equipment/8-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 81/0x51",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/2D"
+  ],
+  "8.0 Power Distribution Equipment/8-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "8.0 Power Distribution Equipment/8-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 69/0x45",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 42/34"
+  ],
+  "8.0 Power Distribution Equipment/8-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/32"
+  ],
+  "9.0 Communications-Teldata/9-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 72/0x48",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2D"
+  ],
+  "9.0 Communications-Teldata/9-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 82/0x52",
+    "Warning: Object handle not found 30/0x1E in 55 objects of max 0x52 handles",
+    "Warning: Object handle not found 65/0x41 in 55 objects of max 0x52 handles",
+    "Warning: Object handle not found 47/0x2F in 55 objects of max 0x52 handles",
+    "Warning: Object handle not found 41/0x29 in 55 objects of max 0x52 handles",
+    "Warning: Object handle not found 64/0x40 in 55 objects of max 0x52 handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/39"
+  ],
+  "9.0 Communications-Teldata/9-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "9.0 Communications-Teldata/9-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 102/0x66",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/39"
+  ],
+  "9.0 Communications-Teldata/9-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 96/0x60",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/3C"
+  ],
+  "9.0 Communications-Teldata/9-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 87/0x57",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/3C"
+  ],
+  "9.0 Communications-Teldata/9-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 92/0x5C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/39"
+  ],
+  "9.0 Communications-Teldata/9-101.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/36"
+  ],
+  "9.0 Communications-Teldata/9-102.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/31"
+  ],
+  "9.0 Communications-Teldata/9-103.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/31"
+  ],
+  "9.0 Communications-Teldata/9-104.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2E"
+  ],
+  "9.0 Communications-Teldata/9-105.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "9.0 Communications-Teldata/9-106.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2D"
+  ],
+  "9.0 Communications-Teldata/9-107.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "9.0 Communications-Teldata/9-108.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 39/31"
+  ],
+  "9.0 Communications-Teldata/9-109.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 46/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 46/36"
+  ],
+  "9.0 Communications-Teldata/9-110.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 68/0x44",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/33"
+  ],
+  "9.0 Communications-Teldata/9-111.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 91/0x5B",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/35"
+  ],
+  "9.0 Communications-Teldata/9-112.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 81/0x51",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/35"
+  ],
+  "9.0 Communications-Teldata/9-113.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/35"
+  ],
+  "9.0 Communications-Teldata/9-201.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/32"
+  ],
+  "9.0 Communications-Teldata/9-202.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 77/0",
+    "Warning: Object handle not found 106/0x6A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 77/59"
+  ],
+  "9.0 Communications-Teldata/9-203.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 69/0x45",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/31"
+  ],
+  "9.0 Communications-Teldata/9-204.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 98/0x62",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "9.0 Communications-Teldata/9-205.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 44/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 44/38"
+  ],
+  "10.0 Site Work/10-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "10.0 Site Work/10-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "10.0 Site Work/10-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 83/0x53",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/2B"
+  ],
+  "10.0 Site Work/10-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 93/0x5D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/2B"
+  ],
+  "10.0 Site Work/10-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "10.0 Site Work/10-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2C"
+  ],
+  "10.0 Site Work/10-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 111/0x6F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2C"
+  ],
+  "10.0 Site Work/10-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 101/0x65",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2C"
+  ],
+  "10.0 Site Work/10-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 66/0x42",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "10.0 Site Work/10-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "10.0 Site Work/10-011.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 83/0x53",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/2E"
+  ],
+  "10.0 Site Work/10-012.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 78/0x4E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "10.0 Site Work/10-013.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/0",
+    "Warning: Object handle not found 111/0x6F",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 33/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-001.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 37/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-002.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 79/0x4F",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-003.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 84/0x54",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 39/33"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-004.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 49/0",
+    "Warning: Object handle not found 90/0x5A",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 49/39"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-005.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 48/0",
+    "Warning: Object handle not found 89/0x59",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 48/38"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-006.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 55/0",
+    "Warning: Object handle not found 114/0x72",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 55/3F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-007.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 62/0x3E",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 37/2D"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-008.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 63/0x3F",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-009.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-010.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/32"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-011.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/30"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-012.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 47/0",
+    "Warning: Object handle not found 98/0x62",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 47/37"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-013.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 108/0x6C",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 41/37"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-013a.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 128/0x80",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/37"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-014.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 90/0x5A",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/34"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-015.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 75/0x4B",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/30"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-016.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-017.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/30"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-018.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 40/2D"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-019.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-020.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 62/0x3E",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/2D"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-021.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 39/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-022.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 97/0x61",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/46"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-023.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/32"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-024.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 47/0",
+    "Warning: Object handle not found 71/0x47",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 47/36"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-025.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 59/0x3B",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/2A"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-026.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 80/0x50",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/34"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-027.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-028.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/0",
+    "Warning: Object handle not found 76/0x4C",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 42/31"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-029.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 58/0",
+    "Warning: Object handle not found 85/0x55",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 58/44"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-030.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 49/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 49/3C"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-031.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 82/0x52",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 41/41"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-032.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 61/0x3D",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-033.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 81/0x51",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 36/2C"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-034.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 41/31"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-035.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 73/0x49",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 39/38"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-036.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-037.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 38/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-101.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 60/0x3C",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 35/2B"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-102.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-103.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-104.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-105.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-106.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 74/0x4A",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-107.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-108.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-109.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-110.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-111.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-112.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-113.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-114.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-115.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 34/2F"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-201.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 52/0",
+    "Warning: Object handle not found 78/0x4E",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 52/3D"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-202.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 6018/0x1782",
+    "Warning: Object handle not found 4341/0x10F5 in 76 objects of max 0x1782 handles",
+    "Warning: Object handle not found 4494/0x118E in 76 objects of max 0x1782 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-203.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 6028/0x178C",
+    "Warning: Object handle not found 4341/0x10F5 in 76 objects of max 0x178C handles",
+    "Warning: Object handle not found 4494/0x118E in 76 objects of max 0x178C handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-204.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 40/0",
+    "Warning: Object handle not found 6053/0x17A5",
+    "Warning: Object handle not found 3758/0xEAE in 76 objects of max 0x17A5 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 40/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-205.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 6053/0x17A5",
+    "Warning: Object handle not found 4341/0x10F5 in 81 objects of max 0x17A5 handles",
+    "Warning: Object handle not found 4494/0x118E in 81 objects of max 0x17A5 handles",
+    "Warning: Object handle not found 3721/0xE89 in 81 objects of max 0x17A5 handles",
+    "Warning: Object handle not found 3716/0xE84 in 81 objects of max 0x17A5 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 43/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-206.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 6024/0x1788",
+    "Warning: Object handle not found 4341/0x10F5 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 4494/0x118E in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3634/0xE32 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3617/0xE21 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3681/0xE61 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3632/0xE30 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3691/0xE6B in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 6008/0x1778 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3622/0xE26 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3699/0xE73 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3618/0xE22 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3746/0xEA2 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3682/0xE62 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3633/0xE31 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3631/0xE2F in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 6013/0x177D in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3629/0xE2D in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3689/0xE69 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3623/0xE27 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3621/0xE25 in 69 objects of max 0x1788 handles",
+    "Warning: Object handle not found 3636/0xE34 in 69 objects of max 0x1788 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 38/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-207.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 6034/0x1792",
+    "Warning: Object handle not found 4341/0x10F5 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 4494/0x118E in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3709/0xE7D in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3634/0xE32 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3617/0xE21 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3632/0xE30 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3691/0xE6B in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 6012/0x177C in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3622/0xE26 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3699/0xE73 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3618/0xE22 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3633/0xE31 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3631/0xE2F in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 6011/0x177B in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3629/0xE2D in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3747/0xEA3 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3698/0xE72 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3708/0xE7C in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3623/0xE27 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3621/0xE25 in 68 objects of max 0x1792 handles",
+    "Warning: Object handle not found 3636/0xE34 in 68 objects of max 0x1792 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 37/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-208.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 39/0",
+    "Warning: Object handle not found 6044/0x179C",
+    "Warning: Object handle not found 4341/0x10F5 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 4494/0x118E in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3709/0xE7D in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3634/0xE32 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3681/0xE61 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3632/0xE30 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3691/0xE6B in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 6012/0x177C in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 6008/0x1778 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3699/0xE73 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3746/0xEA2 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3682/0xE62 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3633/0xE31 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3631/0xE2F in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 6013/0x177D in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 6011/0x177B in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3747/0xEA3 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3698/0xE72 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3708/0xE7C in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3689/0xE69 in 68 objects of max 0x179C handles",
+    "Warning: Object handle not found 3636/0xE34 in 68 objects of max 0x179C handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 39/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-209.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 38/0",
+    "Warning: Object handle not found 6054/0x17A6",
+    "Warning: Object handle not found 4341/0x10F5 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 4494/0x118E in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3709/0xE7D in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3617/0xE21 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3681/0xE61 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3691/0xE6B in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 6012/0x177C in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 6008/0x1778 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3622/0xE26 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3699/0xE73 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3618/0xE22 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3746/0xEA2 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3682/0xE62 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 6013/0x177D in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 6011/0x177B in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3629/0xE2D in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3747/0xEA3 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3698/0xE72 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3708/0xE7C in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3689/0xE69 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3623/0xE27 in 67 objects of max 0x17A6 handles",
+    "Warning: Object handle not found 3621/0xE25 in 67 objects of max 0x17A6 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 38/1651"
+  ],
+  "11.0 Schematic Fault Circuit Interrupter, Personal Protection/11-210.dwg": [
+    "Warning: checksum: 0xefbe0c0c (calculated) CRC mismatch 0x9734-0x97b2",
+    "Warning: Invalid sections: 0 != numgaps: 0 + numsections: 16",
+    "Warning: Unstable Class object 504 TABLESTYLE (0xfff) 34/0",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: Unstable Class object 505 MATERIAL (0x481) 37/0",
+    "Warning: Unstable Class object 505 MATERIAL (0x481) 38/0",
+    "Warning: Unstable Class object 505 MATERIAL (0x481) 39/0",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 60/0",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 142/0",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 143/0",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 144/0",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 145/0",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 146/0",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 147/0",
+    "Warning: Ignore invalid handleoff (@470)",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 168/0",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 169/0",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 170/0",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 171/0",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 172/0",
+    "ERROR: Invalid zero_18 size 3. Need min. 48 bits, have 0 for .",
+    "ERROR: Invalid num_segidx",
+    "Warning: Object handle not found 3696/0xE70",
+    "Warning: Unstable Class object 504 TABLESTYLE (0xfff) 34/87",
+    "Warning: TODO TABLESTYLE r2010+ missing fields",
+    "Warning: Unstable Class object 505 MATERIAL (0x481) 37/96",
+    "Warning: Unstable Class object 505 MATERIAL (0x481) 38/97",
+    "Warning: Unstable Class object 505 MATERIAL (0x481) 39/98",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 60/D8",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 142/29B",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 143/29C",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 144/29D",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 145/29E",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 146/29F",
+    "Warning: Unstable Class object 2 RAPIDRTRENDERSETTINGS (0xf320) 147/2A0",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 168/A24",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 169/A40",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 170/A46",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 171/A4F",
+    "Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 172/A50",
+    "Warning: TODO TABLESTYLE r2010+ missing fields"
+  ],
+  "12.0 Miscellaneous/12-001.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/0",
+    "Warning: Object handle not found 62/0x3E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 36/2D"
+  ],
+  "12.0 Miscellaneous/12-002.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 77/0x4D",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/3C"
+  ],
+  "12.0 Miscellaneous/12-003.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 64/0x40",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/2F"
+  ],
+  "12.0 Miscellaneous/12-004.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 72/0x48",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/37"
+  ],
+  "12.0 Miscellaneous/12-005.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 69/0x45",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/34"
+  ],
+  "12.0 Miscellaneous/12-006.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 65/0x41",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 35/30"
+  ],
+  "12.0 Miscellaneous/12-007.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/0",
+    "Warning: Object handle not found 73/0x49",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 41/38"
+  ],
+  "12.0 Miscellaneous/12-008.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/0",
+    "Warning: Object handle not found 67/0x43",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 43/32"
+  ],
+  "12.0 Miscellaneous/12-009.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 145/0",
+    "Warning: Object handle not found 169/0xA9",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 145/98"
+  ],
+  "12.0 Miscellaneous/12-010.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/0",
+    "Warning: Object handle not found 62/0x3E",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 37/2D"
+  ],
+  "13.0 Abbreviations/13.0 Abbreviations.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 258/0",
+    "Warning: Object handle not found 3686/0xE66",
+    "Warning: Object handle not found 2160/0x870 in 620 objects of max 0xE66 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 258/B2F"
+  ],
+  "14.0 Nurse Call System/14-001.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/0",
+    "Warning: Object handle not found 2370/0x942",
+    "Warning: Object handle not found 1124/0x464 in 96 objects of max 0x942 handles",
+    "Warning: Object handle not found 1367/0x557 in 96 objects of max 0x942 handles",
+    "Warning: Object handle not found 1733/0x6C5 in 96 objects of max 0x942 handles",
+    "Warning: Object handle not found 1729/0x6C1 in 96 objects of max 0x942 handles",
+    "Warning: Object handle not found 1732/0x6C4 in 96 objects of max 0x942 handles",
+    "Warning: Object handle not found 1730/0x6C2 in 96 objects of max 0x942 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/852"
+  ],
+  "14.0 Nurse Call System/14-002.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 35/0",
+    "Warning: Object handle not found 2389/0x955",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 35/852"
+  ],
+  "14.0 Nurse Call System/14-003.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 66/0",
+    "Warning: Object handle not found 2390/0x956",
+    "Warning: Object handle not found 1124/0x464 in 95 objects of max 0x956 handles",
+    "Warning: Object handle not found 1367/0x557 in 95 objects of max 0x956 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 66/852",
+    "repaired block reference *U -> *U75"
+  ],
+  "14.0 Nurse Call System/14-004.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/0",
+    "Warning: Object handle not found 2403/0x963",
+    "Warning: Object handle not found 1124/0x464 in 96 objects of max 0x963 handles",
+    "Warning: Object handle not found 1367/0x557 in 96 objects of max 0x963 handles",
+    "Warning: Object handle not found 1691/0x69B in 96 objects of max 0x963 handles",
+    "Warning: Object handle not found 1689/0x699 in 96 objects of max 0x963 handles",
+    "Warning: Object handle not found 1690/0x69A in 96 objects of max 0x963 handles",
+    "Warning: Object handle not found 1688/0x698 in 96 objects of max 0x963 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/852"
+  ],
+  "14.0 Nurse Call System/14-005.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/0",
+    "Warning: Object handle not found 2416/0x970",
+    "Warning: Object handle not found 1124/0x464 in 96 objects of max 0x970 handles",
+    "Warning: Object handle not found 1367/0x557 in 96 objects of max 0x970 handles",
+    "Warning: Object handle not found 1700/0x6A4 in 96 objects of max 0x970 handles",
+    "Warning: Object handle not found 1698/0x6A2 in 96 objects of max 0x970 handles",
+    "Warning: Object handle not found 1701/0x6A5 in 96 objects of max 0x970 handles",
+    "Warning: Object handle not found 1699/0x6A3 in 96 objects of max 0x970 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/852"
+  ],
+  "14.0 Nurse Call System/14-006.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/0",
+    "Warning: Object handle not found 2426/0x97A",
+    "Warning: Object handle not found 1124/0x464 in 96 objects of max 0x97A handles",
+    "Warning: Object handle not found 1367/0x557 in 96 objects of max 0x97A handles",
+    "Warning: Object handle not found 1700/0x6A4 in 96 objects of max 0x97A handles",
+    "Warning: Object handle not found 1698/0x6A2 in 96 objects of max 0x97A handles",
+    "Warning: Object handle not found 1701/0x6A5 in 96 objects of max 0x97A handles",
+    "Warning: Object handle not found 1699/0x6A3 in 96 objects of max 0x97A handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/852"
+  ],
+  "14.0 Nurse Call System/14-007.dwg": [
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/0",
+    "Warning: Object handle not found 2449/0x991",
+    "Warning: Object handle not found 1124/0x464 in 96 objects of max 0x991 handles",
+    "Warning: Object handle not found 1367/0x557 in 96 objects of max 0x991 handles",
+    "Warning: Object handle not found 1773/0x6ED in 96 objects of max 0x991 handles",
+    "Warning: Object handle not found 1769/0x6E9 in 96 objects of max 0x991 handles",
+    "Warning: Object handle not found 1772/0x6EC in 96 objects of max 0x991 handles",
+    "Warning: Object handle not found 1770/0x6EA in 96 objects of max 0x991 handles",
+    "Warning: Unstable Class object 501 TABLESTYLE (0x7ff) 64/852"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-5.1.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 113/0x71",
+    "Warning: Object handle not found 34/0x22 in 74 objects of max 0x71 handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2E"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-6.1.dwg": [
+    "Warning: handleoff 0x1 looks wrong, max_handles 9b6 - last_handle 9B6 = 0 (@59616)",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 416/0",
+    "Warning: Object handle not found 3721/0xE89",
+    "Warning: Object handle not found 3691/0xE6B in 442 objects of max 0xE89 handles",
+    "Warning: Object handle not found 512/0x200 in 442 objects of max 0xE89 handles",
+    "Warning: Object handle not found 3690/0xE6A in 442 objects of max 0xE89 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 416/DCD"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-6.2.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/0",
+    "Warning: Object handle not found 4146/0x1032",
+    "Warning: Object handle not found 2457/0x999 in 165 objects of max 0x1032 handles",
+    "Warning: Object handle not found 4121/0x1019 in 165 objects of max 0x1032 handles",
+    "Warning: Object handle not found 3689/0xE69 in 165 objects of max 0x1032 handles",
+    "Warning: Object handle not found 3684/0xE64 in 165 objects of max 0x1032 handles",
+    "Warning: Object handle not found 921/0x399 in 165 objects of max 0x1032 handles",
+    "Warning: Object handle not found 3691/0xE6B in 165 objects of max 0x1032 handles",
+    "Warning: Object handle not found 3690/0xE6A in 165 objects of max 0x1032 handles",
+    "Warning: Object handle not found 3695/0xE6F in 165 objects of max 0x1032 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/DCD"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-6.3.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/0",
+    "Warning: Object handle not found 4231/0x1087",
+    "Warning: Object handle not found 2457/0x999 in 237 objects of max 0x1087 handles",
+    "Warning: Object handle not found 4121/0x1019 in 237 objects of max 0x1087 handles",
+    "Warning: Object handle not found 3689/0xE69 in 237 objects of max 0x1087 handles",
+    "Warning: Object handle not found 3691/0xE6B in 237 objects of max 0x1087 handles",
+    "Warning: Object handle not found 3695/0xE6F in 237 objects of max 0x1087 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/DCD"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-6.4.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 73/0",
+    "Warning: Object handle not found 4134/0x1026",
+    "Warning: Object handle not found 2457/0x999 in 174 objects of max 0x1026 handles",
+    "Warning: Object handle not found 3689/0xE69 in 174 objects of max 0x1026 handles",
+    "Warning: Object handle not found 3691/0xE6B in 174 objects of max 0x1026 handles",
+    "Warning: Object handle not found 3690/0xE6A in 174 objects of max 0x1026 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 73/DCD"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.1.1.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/0",
+    "Warning: Object handle not found 4499/0x1193",
+    "Warning: Object handle not found 2457/0x999 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4452/0x1164 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4469/0x1175 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4435/0x1153 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4416/0x1140 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4377/0x1119 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4450/0x1162 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4467/0x1173 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4433/0x1151 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4465/0x1171 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4431/0x114F in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4448/0x1160 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4429/0x114D in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4412/0x113C in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4399/0x112F in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4461/0x116D in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4478/0x117E in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 3689/0xE69 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4459/0x116B in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4413/0x113D in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4476/0x117C in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4442/0x115A in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4405/0x1135 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4457/0x1169 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4474/0x117A in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4440/0x1158 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4409/0x1139 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4408/0x1138 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4455/0x1167 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4472/0x1178 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4438/0x1156 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 3691/0xE6B in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4453/0x1165 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4470/0x1176 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4436/0x1154 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4451/0x1163 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4468/0x1174 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4434/0x1152 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4449/0x1161 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4466/0x1172 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4432/0x1150 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4430/0x114E in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4415/0x113F in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4447/0x115F in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4479/0x117F in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4390/0x1126 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4395/0x112B in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4460/0x116C in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4477/0x117D in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4443/0x115B in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 3695/0xE6F in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4458/0x116A in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4475/0x117B in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4441/0x1159 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4414/0x113E in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4456/0x1168 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4473/0x1179 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4439/0x1157 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4380/0x111C in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4454/0x1166 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4471/0x1177 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4437/0x1155 in 112 objects of max 0x1193 handles",
+    "Warning: Object handle not found 4411/0x113B in 112 objects of max 0x1193 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/DCD"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.1.2.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/0",
+    "Warning: Object handle not found 4276/0x10B4",
+    "Warning: Object handle not found 2457/0x999 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 4259/0x10A3 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 4257/0x10A1 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 4247/0x1097 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 4248/0x1098 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 3689/0xE69 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 3691/0xE6B in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 4258/0x10A2 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 4249/0x1099 in 97 objects of max 0x10B4 handles",
+    "Warning: Object handle not found 3695/0xE6F in 97 objects of max 0x10B4 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/DCD"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.1.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/0",
+    "Warning: Object handle not found 4380/0x111C",
+    "Warning: Object handle not found 4291/0x10C3 in 111 objects of max 0x111C handles",
+    "Warning: Object handle not found 3691/0xE6B in 111 objects of max 0x111C handles",
+    "Warning: Object handle not found 3689/0xE69 in 111 objects of max 0x111C handles",
+    "Warning: Object handle not found 3695/0xE6F in 111 objects of max 0x111C handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 71/DCD"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.1.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 133/0x85",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.2.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 166/0xA6",
+    "Warning: Object handle not found 142/0x8E in 77 objects of max 0xA6 handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.3.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 204/0xCC",
+    "Warning: Object handle not found 179/0xB3 in 66 objects of max 0xCC handles",
+    "Warning: Object handle not found 189/0xBD in 66 objects of max 0xCC handles",
+    "Warning: Object handle not found 178/0xB2 in 66 objects of max 0xCC handles",
+    "Warning: Object handle not found 142/0x8E in 66 objects of max 0xCC handles",
+    "Warning: Object handle not found 188/0xBC in 66 objects of max 0xCC handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.4.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 221/0xDD",
+    "Warning: Object handle not found 211/0xD3 in 56 objects of max 0xDD handles",
+    "Warning: Object handle not found 212/0xD4 in 56 objects of max 0xDD handles",
+    "Warning: Object handle not found 213/0xD5 in 56 objects of max 0xDD handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.5.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 230/0xE6",
+    "Warning: Object handle not found 211/0xD3 in 56 objects of max 0xE6 handles",
+    "Warning: Object handle not found 222/0xDE in 56 objects of max 0xE6 handles",
+    "Warning: Object handle not found 210/0xD2 in 56 objects of max 0xE6 handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.6.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 222/0xDE",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.7.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 240/0xF0",
+    "Warning: Object handle not found 232/0xE8 in 67 objects of max 0xF0 handles",
+    "Warning: Object handle not found 230/0xE6 in 67 objects of max 0xF0 handles",
+    "Warning: Object handle not found 213/0xD5 in 67 objects of max 0xF0 handles",
+    "Warning: Object handle not found 231/0xE7 in 67 objects of max 0xF0 handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.8.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 253/0xFD",
+    "Warning: Object handle not found 232/0xE8 in 68 objects of max 0xFD handles",
+    "Warning: Object handle not found 230/0xE6 in 68 objects of max 0xFD handles",
+    "Warning: Object handle not found 213/0xD5 in 68 objects of max 0xFD handles",
+    "Warning: Object handle not found 231/0xE7 in 68 objects of max 0xFD handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.9.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 266/0x10A",
+    "Warning: Object handle not found 232/0xE8 in 61 objects of max 0x10A handles",
+    "Warning: Object handle not found 230/0xE6 in 61 objects of max 0x10A handles",
+    "Warning: Object handle not found 213/0xD5 in 61 objects of max 0x10A handles",
+    "Warning: Object handle not found 233/0xE9 in 61 objects of max 0x10A handles",
+    "Warning: Object handle not found 231/0xE7 in 61 objects of max 0x10A handles",
+    "Warning: Object handle not found 229/0xE5 in 61 objects of max 0x10A handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.10.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 289/0x121",
+    "Warning: Object handle not found 213/0xD5 in 64 objects of max 0x121 handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.1.2.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 68/0x44",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.2.1.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 98/0x62",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/34"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.2.2.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 102/0x66",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.2.3.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 126/0x7E",
+    "Warning: Object handle not found 111/0x6F in 60 objects of max 0x7E handles",
+    "Warning: Object handle not found 118/0x76 in 60 objects of max 0x7E handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.2.4.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 127/0x7F",
+    "Warning: Object handle not found 106/0x6A in 67 objects of max 0x7F handles",
+    "Warning: Object handle not found 109/0x6D in 67 objects of max 0x7F handles",
+    "Warning: Object handle not found 104/0x68 in 67 objects of max 0x7F handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/34"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.2.5.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 32/0",
+    "Warning: Object handle not found 139/0x8B",
+    "Warning: Object handle not found 41/0x29 in 58 objects of max 0x8B handles",
+    "Warning: Object handle not found 106/0x6A in 58 objects of max 0x8B handles",
+    "Warning: Object handle not found 42/0x2A in 58 objects of max 0x8B handles",
+    "Warning: Object handle not found 109/0x6D in 58 objects of max 0x8B handles",
+    "Warning: Object handle not found 104/0x68 in 58 objects of max 0x8B handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 32/34"
+  ],
+  "NFPA Alternate Fire Safety Symbols/5-7.3.1.dwg": [
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/0",
+    "Warning: Object handle not found 252/0xFC",
+    "Warning: Object handle not found 213/0xD5 in 67 objects of max 0xFC handles",
+    "Warning: Object handle not found 229/0xE5 in 67 objects of max 0xFC handles",
+    "Warning: Object handle not found 230/0xE6 in 67 objects of max 0xFC handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 34/2B"
+  ],
+  "One-Line Riser Diagrams/FRISER.dwg": [
+    "Warning: handleoff 0x8 looks wrong, max_handles 1492 - last_handle 1491 = 1 (@107780)",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 999/0",
+    "Warning: Object handle not found 6359/0x18D7",
+    "Warning: Object handle not found 2697/0xA89 in 1023 objects of max 0x18D7 handles",
+    "Warning: Object handle not found 3817/0xEE9 in 1023 objects of max 0x18D7 handles",
+    "Warning: Object handle not found 3602/0xE12 in 1023 objects of max 0x18D7 handles",
+    "Warning: Object handle not found 3600/0xE10 in 1023 objects of max 0x18D7 handles",
+    "Warning: Unstable Class object 502 TABLESTYLE (0x7ff) 999/18A6"
+  ],
+  "One-Line Riser Diagrams/one-line.dwg": [
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 473/0",
+    "Warning: Object handle not found 15815/0x3DC7",
+    "Warning: Object handle not found 15769/0x3D99 in 518 objects of max 0x3DC7 handles",
+    "Warning: Object handle not found 15766/0x3D96 in 518 objects of max 0x3DC7 handles",
+    "Warning: Object handle not found 15767/0x3D97 in 518 objects of max 0x3DC7 handles",
+    "Warning: Object handle not found 15768/0x3D98 in 518 objects of max 0x3DC7 handles",
+    "Warning: Unstable Class object 503 TABLESTYLE (0x7ff) 473/3D70"
+  ],
+  "Schedules/Feeder Schedule.dwg": [
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 251/0",
+    "Warning: Object handle not found 5112/0x13F8",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 251/13C1"
+  ],
+  "Schedules/Lighting Fixture Schedule.dwg": [
+    "Warning: handleoff 0x328 looks wrong, max_handles 34a - last_handle 46 = 304 (@28769)",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 162/0",
+    "Warning: Object handle not found 5085/0x13DD",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 162/13C1"
+  ],
+  "Schedules/Mechanical Equipment Schedule.dwg": [
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 284/0",
+    "Warning: Object handle not found 5103/0x13EF",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 284/13C1"
+  ],
+  "Schedules/Panel Schedule.dwg": [
+    "Warning: handleoff 0xB9F looks wrong, max_handles 42a - last_handle 36E = BC (@30074)",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 215/0",
+    "Warning: Object handle not found 5076/0x13D4",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 215/13C1"
+  ],
+  "Schedules/Transformer Schedule.dwg": [
+    "Warning: handleoff 0x3 looks wrong, max_handles 50c - last_handle 50B = 1 (@35029)",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 264/0",
+    "Warning: Object handle not found 5094/0x13E6",
+    "Warning: Unstable Class object 504 TABLESTYLE (0x7ff) 264/13C1"
+  ]
+}
