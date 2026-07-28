@@ -15,7 +15,10 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import urllib.parse
+import xml.etree.ElementTree as ET
 import zipfile
+import zlib
 
 os.environ.setdefault(
     "XDG_CACHE_HOME", str(Path(tempfile.gettempdir()) / "neca-ezdxf-cache")
@@ -67,6 +70,10 @@ SVG_VIEWBOX_PATTERN = re.compile(
     r'viewBox="[^"]*?\s([0-9.+-]+)\s([0-9.+-]+)"'
 )
 SVG_STROKE_PATTERN = re.compile(r"stroke-width:\s*[^;]+;")
+SVG_PATH_TOKEN_PATTERN = re.compile(
+    r"[A-Za-z]|[-+]?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][-+]?\d+)?"
+)
+SVG_CSS_RULE_PATTERN = re.compile(r"\.([A-Za-z0-9_-]+)\s*\{([^}]*)\}")
 
 
 def natural_key(value: str) -> list[object]:
@@ -231,18 +238,6 @@ def render_svg(
         "stroke-width: 1.5; vector-effect: non-scaling-stroke;",
         svg_text,
     )
-    svg_text = svg_text.replace(
-        "<svg ",
-        '<svg style="color-scheme: light dark;" ',
-        1,
-    )
-    # Keep library thumbnails visible before draw.io has instantiated a shape.
-    # Unlike a custom CSS variable, light-dark() is also understood by draw.io's
-    # embedded-SVG colour editor and can be replaced with a user-selected pair.
-    svg_text = svg_text.replace(
-        "#000000",
-        "light-dark(#000000, #ffffff)",
-    )
     return svg_text, retained, omitted, repair_notes
 
 
@@ -260,18 +255,259 @@ def svg_dimensions(svg_text: str) -> tuple[int, int]:
     return max(minimum, round(maximum * aspect)), maximum
 
 
+def format_stencil_number(value: float) -> str:
+    value = 0.0 if abs(value) < 0.0000005 else value
+    return f"{value:.5f}".rstrip("0").rstrip(".")
+
+
+def svg_path_to_stencil(
+    path_data: str,
+    view_x: float,
+    view_y: float,
+    view_width: float,
+    view_height: float,
+) -> ET.Element:
+    tokens = SVG_PATH_TOKEN_PATTERN.findall(path_data)
+    path = ET.Element("path")
+    current_x = 0.0
+    current_y = 0.0
+    start_x = 0.0
+    start_y = 0.0
+    command = ""
+    index = 0
+
+    def normalized(x: float, y: float) -> tuple[str, str]:
+        return (
+            format_stencil_number((x - view_x) / view_width * 100.0),
+            format_stencil_number((y - view_y) / view_height * 100.0),
+        )
+
+    def available_numbers(count: int) -> bool:
+        return (
+            index + count <= len(tokens)
+            and all(not token.isalpha() for token in tokens[index:index + count])
+        )
+
+    while index < len(tokens):
+        if tokens[index].isalpha():
+            command = tokens[index]
+            index += 1
+            if command in {"Z", "z"}:
+                ET.SubElement(path, "close")
+                current_x, current_y = start_x, start_y
+                continue
+
+        if command in {"M", "m"}:
+            first = True
+            while available_numbers(2):
+                x = float(tokens[index])
+                y = float(tokens[index + 1])
+                index += 2
+                if command == "m":
+                    x += current_x
+                    y += current_y
+                current_x, current_y = x, y
+                x_value, y_value = normalized(x, y)
+                ET.SubElement(
+                    path,
+                    "move" if first else "line",
+                    {"x": x_value, "y": y_value},
+                )
+                if first:
+                    start_x, start_y = x, y
+                    first = False
+            command = "l" if command == "m" else "L"
+        elif command in {"L", "l"}:
+            while available_numbers(2):
+                x = float(tokens[index])
+                y = float(tokens[index + 1])
+                index += 2
+                if command == "l":
+                    x += current_x
+                    y += current_y
+                current_x, current_y = x, y
+                x_value, y_value = normalized(x, y)
+                ET.SubElement(path, "line", {"x": x_value, "y": y_value})
+        elif command in {"C", "c"}:
+            while available_numbers(6):
+                values = [float(token) for token in tokens[index:index + 6]]
+                index += 6
+                if command == "c":
+                    values = [
+                        values[0] + current_x,
+                        values[1] + current_y,
+                        values[2] + current_x,
+                        values[3] + current_y,
+                        values[4] + current_x,
+                        values[5] + current_y,
+                    ]
+                x1, y1 = normalized(values[0], values[1])
+                x2, y2 = normalized(values[2], values[3])
+                x3, y3 = normalized(values[4], values[5])
+                ET.SubElement(
+                    path,
+                    "curve",
+                    {"x1": x1, "y1": y1, "x2": x2, "y2": y2, "x3": x3, "y3": y3},
+                )
+                current_x, current_y = values[4], values[5]
+        elif command in {"Q", "q"}:
+            while available_numbers(4):
+                values = [float(token) for token in tokens[index:index + 4]]
+                index += 4
+                if command == "q":
+                    values = [
+                        values[0] + current_x,
+                        values[1] + current_y,
+                        values[2] + current_x,
+                        values[3] + current_y,
+                    ]
+                x1, y1 = normalized(values[0], values[1])
+                x2, y2 = normalized(values[2], values[3])
+                ET.SubElement(
+                    path,
+                    "quad",
+                    {"x1": x1, "y1": y1, "x2": x2, "y2": y2},
+                )
+                current_x, current_y = values[2], values[3]
+        else:
+            raise ValueError(f"Unsupported SVG path command: {command!r}")
+
+    return path
+
+
+def svg_class_paints(svg_root: ET.Element) -> dict[str, tuple[bool, bool]]:
+    result: dict[str, tuple[bool, bool]] = {}
+    for element in svg_root.iter():
+        if element.tag.rsplit("}", 1)[-1] != "style":
+            continue
+        for class_name, declarations in SVG_CSS_RULE_PATTERN.findall(element.text or ""):
+            properties = {}
+            for declaration in declarations.split(";"):
+                if ":" in declaration:
+                    key, value = declaration.split(":", 1)
+                    properties[key.strip()] = value.strip()
+            result[class_name] = (
+                properties.get("stroke", "none") != "none",
+                properties.get("fill", "none") != "none",
+            )
+    return result
+
+
+def svg_to_stencil(svg_text: str) -> str:
+    svg_root = ET.fromstring(svg_text)
+    view_box = [float(value) for value in svg_root.attrib["viewBox"].split()]
+    if len(view_box) != 4:
+        raise ValueError(f"Invalid SVG viewBox: {svg_root.attrib['viewBox']}")
+    view_x, view_y, view_width, view_height = view_box
+    view_width = max(view_width, 1.0)
+    view_height = max(view_height, 1.0)
+    paints = svg_class_paints(svg_root)
+
+    shape = ET.Element(
+        "shape",
+        {
+            "name": "NECA symbol",
+            "w": "100",
+            "h": "100",
+            "aspect": "variable",
+            "strokewidth": "inherit",
+        },
+    )
+    foreground = ET.SubElement(shape, "foreground")
+    ET.SubElement(foreground, "linejoin", {"join": "round"})
+    ET.SubElement(foreground, "linecap", {"cap": "round"})
+    geometry_count = 0
+
+    for element in svg_root.iter():
+        tag = element.tag.rsplit("}", 1)[-1]
+        if tag == "path":
+            class_name = element.attrib.get("class", "")
+            stroke, fill = paints.get(class_name, (True, False))
+            foreground.append(
+                svg_path_to_stencil(
+                    element.attrib["d"],
+                    view_x,
+                    view_y,
+                    view_width,
+                    view_height,
+                )
+            )
+            if stroke and fill:
+                ET.SubElement(foreground, "fillstroke")
+            elif fill:
+                ET.SubElement(foreground, "fill")
+            else:
+                ET.SubElement(foreground, "stroke")
+            geometry_count += 1
+        elif tag == "line":
+            dashed = "stroke-dasharray" in element.attrib
+            if dashed:
+                ET.SubElement(foreground, "save")
+                ET.SubElement(foreground, "dashed", {"dashed": "1"})
+            line_path = ET.SubElement(foreground, "path")
+            x1 = (float(element.attrib["x1"]) - view_x) / view_width * 100.0
+            y1 = (float(element.attrib["y1"]) - view_y) / view_height * 100.0
+            x2 = (float(element.attrib["x2"]) - view_x) / view_width * 100.0
+            y2 = (float(element.attrib["y2"]) - view_y) / view_height * 100.0
+            ET.SubElement(
+                line_path,
+                "move",
+                {"x": format_stencil_number(x1), "y": format_stencil_number(y1)},
+            )
+            ET.SubElement(
+                line_path,
+                "line",
+                {"x": format_stencil_number(x2), "y": format_stencil_number(y2)},
+            )
+            ET.SubElement(foreground, "stroke")
+            if dashed:
+                ET.SubElement(foreground, "restore")
+            geometry_count += 1
+
+    if geometry_count == 0:
+        raise ValueError("SVG contains no drawable paths")
+    return ET.tostring(shape, encoding="unicode", short_empty_elements=True)
+
+
+def compress_drawio_stencil(stencil_xml: str) -> str:
+    encoded = urllib.parse.quote(stencil_xml, safe="~()*!.'-_").encode("ascii")
+    compressor = zlib.compressobj(level=9, wbits=-15)
+    compressed = compressor.compress(encoded) + compressor.flush()
+    return base64.b64encode(compressed).decode("ascii")
+
+
 def drawio_entry(svg_text: str, title: str) -> dict[str, object]:
     width, height = svg_dimensions(svg_text)
-    data = base64.b64encode(svg_text.encode("utf-8")).decode("ascii")
+    stencil = compress_drawio_stencil(svg_to_stencil(svg_text))
+    style = (
+        f"shape=stencil({stencil});aspect=fixed;whiteSpace=wrap;html=1;"
+        "strokeColor=#000000;fillColor=#000000;resizable=1;rotatable=1;"
+    )
+    model = ET.Element("mxGraphModel")
+    root = ET.SubElement(model, "root")
+    ET.SubElement(root, "mxCell", {"id": "0"})
+    ET.SubElement(root, "mxCell", {"id": "1", "parent": "0"})
+    cell = ET.SubElement(
+        root,
+        "mxCell",
+        {
+            "id": "2",
+            "value": "",
+            "style": style,
+            "vertex": "1",
+            "parent": "1",
+        },
+    )
+    ET.SubElement(
+        cell,
+        "mxGeometry",
+        {"width": str(width), "height": str(height), "as": "geometry"},
+    )
     return {
-        "data": f"data:image/svg+xml;base64,{data}",
+        "xml": ET.tostring(model, encoding="unicode", short_empty_elements=True),
         "w": width,
         "h": height,
         "title": title,
-        "aspect": "fixed",
-        # Expose the SVG classes as ordinary native colour controls. Their
-        # light-dark() pairs remain editable as separate light and dark values.
-        "style": "resizable=1;rotatable=1;editableCssRules=.*;",
     }
 
 
@@ -356,7 +592,7 @@ def convert(source: Path, output_dir: Path) -> None:
 
     write_library(
         output_dir / COMBINED_LIBRARY_NAME,
-        "NECA 100-2024 — Complete (Unofficial draw.io conversion)",
+        "NECA 100-2024 — Complete (Native stencil edition; unofficial conversion)",
         all_entries,
     )
 
@@ -369,7 +605,10 @@ def convert(source: Path, output_dir: Path) -> None:
         )
         write_library(
             output_dir / filename,
-            f"NECA 100-2024 — {category} (Unofficial draw.io conversion)",
+            (
+                f"NECA 100-2024 — {category} "
+                "(Native stencil edition; unofficial conversion)"
+            ),
             entries,
         )
 
